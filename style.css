@@ -10,7 +10,7 @@ body {
 /* Header */
 header {
   background: #175873;
-  color: white;
+  color: #87aca3;
   padding: 2rem 1rem;
   text-align: center;
 }
@@ -26,7 +26,7 @@ nav {
   margin-top: 1rem;
 }
 nav a {
-  color: white;
+  color: #87aca3;
   margin: 0 10px;
   text-decoration: none;
   font-weight: bold;
@@ -51,7 +51,7 @@ h2 {
 
 /* Card Component */
 .card {
-  background: white;
+  background: #87aca3;
   padding: 1.5rem;
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -62,8 +62,8 @@ h2 {
 footer {
   text-align: center;
   padding: 1.5rem;
-  background: #87aca3;
-  color: white;
+  background: #175873;
+  color: #87aca3;
   margin-top: 3rem;
 }
 footer a {
