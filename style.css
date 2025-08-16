@@ -3,13 +3,13 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background: #f9f9f9;
-  color: #333;
+  background: #87aca3;
+  color: #0c1446;
 }
 
 /* Header */
 header {
-  background: #4f46e5;
+  background: #175873;
   color: white;
   padding: 2rem 1rem;
   text-align: center;
@@ -45,7 +45,7 @@ section {
   margin-bottom: 2rem;
 }
 h2 {
-  color: #4f46e5;
+  color: #2b7c85;
   margin-bottom: 1rem;
 }
 
@@ -62,12 +62,12 @@ h2 {
 footer {
   text-align: center;
   padding: 1.5rem;
-  background: #333;
+  background: #87aca3;
   color: white;
   margin-top: 3rem;
 }
 footer a {
-  color: #4f46e5;
+  color: #0c1446;
   text-decoration: none;
   margin: 0 5px;
 }
